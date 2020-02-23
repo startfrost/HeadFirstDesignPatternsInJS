@@ -1,7 +1,7 @@
-const MallardDuck = require("./MallardDuck");
-const RedheadDuck = require("./RedheadDuck");
-const FlyNoWay = require("./FlyNoWay");
-const Squeak = require("./Squeak");
+const MallardDuck = require("./Duck/MallardDuck");
+const RedheadDuck = require("./Duck/RedheadDuck");
+const FlyNoWay = require("./Fly/FlyNoWay");
+const Squeak = require("./Quack/Squeak");
 
 
 // 野鸭

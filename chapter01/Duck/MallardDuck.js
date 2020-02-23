@@ -1,6 +1,6 @@
 const Duck = require("./Duck");
-const Quack = require("./Quack");
-const FlyWithWings = require("./FlyWithWings");
+const Quack = require("../Quack/Quack");
+const FlyWithWings = require("../Fly/FlyWithWings");
 
 class MallardDuck extends Duck {
     constructor() {
