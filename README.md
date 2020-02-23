@@ -4,7 +4,7 @@ Head First设计模式的JavaScript实现。
 
 ## 填坑表
 - [x] chapter01 设计模式入门(策略模式)
-- [ ] chapter02 观察者模式
+- [x] chapter02 观察者模式
 - [ ] chapter03 装饰者模式
 - [ ] chapter04 工厂模式
 - [ ] chapter05 单件模式
